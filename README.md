@@ -29,6 +29,10 @@ El desarrollo abarca los siguientes componentes clave:
 
 ---
 
+## Imágenes
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/525b43c3-0db2-48b8-ac1d-bd5ab86393d9" />
+
+
 ## Instrucciones de Ejecución
 
 1. Abrir la topología de red **`Practica5-6_WLAN.pkt`** en **Cisco Packet Tracer** (versión 8.0 o superior).
