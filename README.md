@@ -29,9 +29,19 @@ El desarrollo abarca los siguientes componentes clave:
 
 ---
 
-## Imágenes
-<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/525b43c3-0db2-48b8-ac1d-bd5ab86393d9" />
 
+## Imágenes
+
+**Topología inalámbrica simulada en Cisco Packet Tracer**
+<img src="images/01-topologia.png" width="720" alt="Topología en Packet Tracer" />
+
+**Verificación de conectividad (ping) desde un cliente inalámbrico**
+<img src="images/02-ping-cliente.png" width="720" alt="Ping desde cliente inalámbrico" />
+
+**Direccionamiento IP obtenido por DHCP (`ipconfig`)**
+<img src="images/03-ipconfig.png" width="720" alt="Direccionamiento IP por DHCP" />
+
+---
 
 ## Instrucciones de Ejecución
 
